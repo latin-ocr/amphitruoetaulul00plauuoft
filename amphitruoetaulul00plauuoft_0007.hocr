@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "amphitruoetaulul00plauuoft_0007.png"; bbox 0 0 1277 2193; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 659 508 712 534">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 659 508 712 534">
+     <span class='ocr_line' id='line_1_1' title="bbox 659 508 712 534; baseline 0.019 -1"><span class='ocrx_word' id='word_1_1' title='bbox 659 508 712 534; x_wconf 88' lang='lat' dir='ltr'>To</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 220 718 1151 760">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 220 718 1151 760">
+     <span class='ocr_line' id='line_1_2' title="bbox 220 718 1151 760; baseline -0.001 -1"><span class='ocrx_word' id='word_1_2' title='bbox 220 718 569 759; x_wconf 80' lang='lat' dir='ltr'>GEORGE</span> <span class='ocrx_word' id='word_1_3' title='bbox 631 720 684 759; x_wconf 92' lang='lat' dir='ltr'>B.</span> <span class='ocrx_word' id='word_1_4' title='bbox 742 718 1151 760; x_wconf 78' lang='lat' dir='ltr'><strong>EMERSON</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 491 935 879 966">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 491 935 879 966">
+     <span class='ocr_line' id='line_1_3' title="bbox 491 935 879 966; baseline 0.003 -2"><span class='ocrx_word' id='word_1_5' title='bbox 491 935 623 965; x_wconf 89' lang='lat' dir='ltr'>THIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 658 935 879 966; x_wconf 86' lang='lat' dir='ltr'><strong>VOLUME</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 306 1145 1058 1169">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 306 1145 1058 1169">
+     <span class='ocr_line' id='line_1_4' title="bbox 306 1145 1058 1169; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 306 1145 347 1169; x_wconf 79' lang='lat' dir='ltr'>IS</span> <span class='ocrx_word' id='word_1_8' title='bbox 377 1145 754 1169; x_wconf 82' lang='lat' dir='ltr'><strong>RESPECTFULLY</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 788 1145 1058 1169; x_wconf 76' lang='lat' dir='ltr'>INSCRIBED</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 541 1311 830 1340">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 541 1311 830 1340">
+     <span class='ocr_line' id='line_1_5' title="bbox 541 1311 830 1340; baseline 0 -8"><span class='ocrx_word' id='word_1_10' title='bbox 541 1311 584 1332; x_wconf 69' lang='grc' dir='ltr'>ΒΥ</span> <span class='ocrx_word' id='word_1_11' title='bbox 608 1311 664 1332; x_wconf 75' lang='lat' dir='ltr'>ms</span> <span class='ocrx_word' id='word_1_12' title='bbox 688 1312 830 1340; x_wconf 69' lang='lat' dir='ltr'>rmnxn,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 878 1470 1191 1502">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 878 1470 1191 1502">
+     <span class='ocr_line' id='line_1_6' title="bbox 878 1470 1191 1502; baseline 0.003 -2"><span class='ocrx_word' id='word_1_13' title='bbox 878 1470 973 1501; x_wconf 89' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_14' title='bbox 1004 1471 1191 1502; x_wconf 87' lang='lat' dir='ltr'>EDITOR.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
